@@ -1,7 +1,9 @@
 # Rapport Analyse Ventes E-commerce
 
 **Description du Projet**
-Ce projet consiste à analyser les ventes d'un site de e-commerce afin de générer un rapport mensuel destiné à la direction marketing. Le but est d'interpréter les tendances des ventes, d'examiner la performance des catégories de produits, et de fournir des insights pour comprendre la baisse du chiffre d'affaires. Ce rapport est conçu pour aider l’équipe marketing dans la prise de décisions stratégiques.
+- Ce projet consiste à analyser les ventes d'un site de e-commerce afin de générer un rapport mensuel destiné à la direction marketing.
+- Le but est d'interpréter les tendances des ventes, d'examiner la performance des catégories de produits, et de fournir des insights pour comprendre la baisse du chiffre d'affaires.
+- Ce rapport est conçu pour aider l’équipe marketing dans la prise de décisions stratégiques.
 
 **Objectifs**
 - Analyser les ventes par catégorie de produit.
